@@ -1,6 +1,6 @@
 .imagem1 {
-    width:100% ;
-    height: 700px ;
+    width: 100%;
+    height: 700px;
     object-fit: cover;
 }
 
@@ -18,11 +18,12 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
+    color: rgb(89, 89, 89);
 }
 
 .imagem2 {
-    width:30% ;
-    height: 600px ;
+    width: 30%;
+    height: 600px;
     object-fit: cover;
     align-items: center;
 }
@@ -36,7 +37,7 @@ h2 {
 
 
 body {
-   background-color: rgb(83, 83, 83);
+    background-color: rgb(83, 83, 83);
 }
 
 .tres {
@@ -55,8 +56,7 @@ body {
 }
 
 .imagem3 {
-    width:30% ;
-    height: 600px ;
+    height: 600px;
     object-fit: cover;
     align-items: center;
 }
