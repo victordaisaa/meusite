@@ -6,10 +6,18 @@
 
 h1 {
     font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     justify-content: center;
-    ;
+    color: rgb(98, 98, 98);
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 .imagem2 {
@@ -23,6 +31,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: black;
 }
 
 
@@ -35,4 +44,12 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-wrap: wrap;
+}
+
+.musicas {
+    background-color: black;
+}
+
+.musicas h2 {
+    color: rgb(85, 85, 85);
 }
