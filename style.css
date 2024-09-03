@@ -53,3 +53,10 @@ body {
 .musicas h2 {
     color: rgb(85, 85, 85);
 }
+
+.imagem3 {
+    width:30% ;
+    height: 600px ;
+    object-fit: cover;
+    align-items: center;
+}
